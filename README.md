@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saltout
 - 👀 I’m interested in video game development
-- 🌱 I’m currently learning Unity and C#
+- 🌱 I’m currently learning Unity with C# and Java
 - 🏫 I’m currently studying computer science in college
 
 <!---
